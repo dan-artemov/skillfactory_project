@@ -202,6 +202,6 @@ while True:
         continue
     else:
         print('\n'
-          'Игра окончена!')
+          '    Игра окончена!    ')
         break
 
